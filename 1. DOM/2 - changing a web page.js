@@ -6,11 +6,3 @@ document.getElementById("p1-name").textContent = "Sofia";
 
 document.getElementById("p1-name").textContent += " and Sam";
 document.getElementById("p1-name").append(" & Sam");
-
-let test = function testeuu(x) {
-  if (x > 10) {
-    console.log("hey");
-
-    console.log("hey");
-  }
-};

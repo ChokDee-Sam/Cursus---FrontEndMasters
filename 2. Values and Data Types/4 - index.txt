@@ -1,0 +1,10 @@
+'Aloha'[0]
+
+'Aloha'.indexOf('A')
+'Aloha'.indexOf('ha')
+
+'Aloha'.includes('ha')
+
+ 'Aloha'.startsWith('Al')
+
+'ALOHA'.toLowerCase()

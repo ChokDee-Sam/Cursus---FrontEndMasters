@@ -1,0 +1,14 @@
+typeof false
+// 'boolean'
+
+typeof 'true'
+// 'string'
+
+typeof document.title
+// 'string'
+
+typeof 'some string'.length
+// 'number'
+
+typeof null
+// 'object'

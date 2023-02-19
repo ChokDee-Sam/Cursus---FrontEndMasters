@@ -1,0 +1,9 @@
+typeOf 
+
+primitive values
+- string
+- number
+- boolean
+- undefined
+- null
+- and others...
